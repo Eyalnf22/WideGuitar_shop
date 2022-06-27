@@ -56,7 +56,11 @@ namespace EyalProject
             SyncWithSapak();//כשאני נכנס כאדמיין אני רוצה ישר שהספק והטבלת כלים שלי יסתנכרנו
         }
 
-
+        public void Tester()
+        {
+            int t = 5;
+            t++;
+        }
         protected void InsertInst_Click(object sender, EventArgs e)
         {
             if (isUploaded)
