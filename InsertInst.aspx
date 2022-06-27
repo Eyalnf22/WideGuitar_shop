@@ -29,7 +29,7 @@
             <tr>
                 <td>
                     <center>
-                        שם:<asp:TextBox ID="instNameBox" runat="server" Text="nnigas" CssClass="box"></asp:TextBox>
+                        שם:<asp:TextBox ID="instNameBox" runat="server" Text="" CssClass="box"></asp:TextBox>
                         <br />
                         <asp:RequiredFieldValidator ValidationGroup="gr" CssClass="req" runat="server" ErrorMessage="שדה חובה" ControlToValidate="instNameBox"></asp:RequiredFieldValidator>
                     </center>

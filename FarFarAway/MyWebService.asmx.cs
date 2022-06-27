@@ -75,7 +75,7 @@ namespace FarFarAway
             ArrayList sapakInstArr = new ArrayList();
             OleDbConnection Con2 = new OleDbConnection();
             Con2.ConnectionString = @"provider=Microsoft.ACE.OLEDB.12.0; Data source="
-               + "D:\\Yoav\\far far away\\FarFarAway\\SapakDataBase.accdb";
+                + Server.MapPath("") + "\\SapakDataBase.accdb";
             Con2.Open();
 
             string sqlstring2 = "select * from MyInstList";
@@ -100,7 +100,7 @@ namespace FarFarAway
 
             OleDbConnection Con = new OleDbConnection();
             Con.ConnectionString = @"provider=Microsoft.ACE.OLEDB.12.0; Data source="
-               + "D:\\Yoav\\far far away\\FarFarAway\\SapakDataBase.accdb";
+                + Server.MapPath("") + "\\SapakDataBase.accdb";
             Con.Open();
 
             string sqlstring = "select * from MyInstList WHERE InstName ='" + InstName + "' ";
@@ -125,7 +125,7 @@ namespace FarFarAway
         {
             OleDbConnection Con = new OleDbConnection();
             Con.ConnectionString = @"provider=Microsoft.ACE.OLEDB.12.0; Data source="
-               + "D:\\Yoav\\far far away\\FarFarAway\\SapakDataBase.accdb";
+                + Server.MapPath("") + "\\SapakDataBase.accdb";
             Con.Open();
 
             string sqlstring = "INSERT INTO MyInstList(InstName,MySupply,InstYear,Company,Type,InnerType,MyImage) " +
@@ -144,7 +144,7 @@ namespace FarFarAway
         {
             OleDbConnection Con1 = new OleDbConnection();
             Con1.ConnectionString = @"provider=Microsoft.ACE.OLEDB.12.0; Data source="
-                  + "D:\\Yoav\\far far away\\FarFarAway\\SapakDataBase.accdb";
+                + Server.MapPath("") + "\\SapakDataBase.accdb";
             Con1.Open();
 
             string sqlstring = "select " + wantedField + " from MyInstList WHERE InstName = '" + InstName + "' ";

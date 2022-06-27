@@ -233,10 +233,10 @@
     <Content Include="adminMaster.Master" />
     <None Include="packages.config" />
     <None Include="Web References\FarFarAway\MyWebService.wsdl" />
-    <Content Include="Web References\FarFarAway\Reference.map">
+    <None Include="Web References\FarFarAway\Reference.map">
       <Generator>MSDiscoCodeGenerator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
-    </Content>
+    </None>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
