@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:tns="http://tempuri.org/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GetSapak">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InstName" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="amount" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetSapakResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetSapakResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetNameArr">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetNameArrResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetNameArrResult" type="tns:ArrayOfAnyType" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfAnyType">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="anyType" nillable="true" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="NameDontExist">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InstName" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="NameDontExistResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="NameDontExistResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertSapak">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InstName" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="amount" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="image" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="instYear" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="company" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="type" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="innertype" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertSapakResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="getInfoFromSapak">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InstName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="wantedField" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getInfoFromSapakResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getInfoFromSapakResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetSapakSoapIn">
+    <wsdl:part name="parameters" element="tns:GetSapak" />
+  </wsdl:message>
+  <wsdl:message name="GetSapakSoapOut">
+    <wsdl:part name="parameters" element="tns:GetSapakResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetNameArrSoapIn">
+    <wsdl:part name="parameters" element="tns:GetNameArr" />
+  </wsdl:message>
+  <wsdl:message name="GetNameArrSoapOut">
+    <wsdl:part name="parameters" element="tns:GetNameArrResponse" />
+  </wsdl:message>
+  <wsdl:message name="NameDontExistSoapIn">
+    <wsdl:part name="parameters" element="tns:NameDontExist" />
+  </wsdl:message>
+  <wsdl:message name="NameDontExistSoapOut">
+    <wsdl:part name="parameters" element="tns:NameDontExistResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertSapakSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertSapak" />
+  </wsdl:message>
+  <wsdl:message name="InsertSapakSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertSapakResponse" />
+  </wsdl:message>
+  <wsdl:message name="getInfoFromSapakSoapIn">
+    <wsdl:part name="parameters" element="tns:getInfoFromSapak" />
+  </wsdl:message>
+  <wsdl:message name="getInfoFromSapakSoapOut">
+    <wsdl:part name="parameters" element="tns:getInfoFromSapakResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WebService1Soap">
+    <wsdl:operation name="GetSapak">
+      <wsdl:input message="tns:GetSapakSoapIn" />
+      <wsdl:output message="tns:GetSapakSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNameArr">
+      <wsdl:input message="tns:GetNameArrSoapIn" />
+      <wsdl:output message="tns:GetNameArrSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="NameDontExist">
+      <wsdl:input message="tns:NameDontExistSoapIn" />
+      <wsdl:output message="tns:NameDontExistSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertSapak">
+      <wsdl:input message="tns:InsertSapakSoapIn" />
+      <wsdl:output message="tns:InsertSapakSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getInfoFromSapak">
+      <wsdl:input message="tns:getInfoFromSapakSoapIn" />
+      <wsdl:output message="tns:getInfoFromSapakSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WebService1Soap" type="tns:WebService1Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetSapak">
+      <soap:operation soapAction="http://tempuri.org/GetSapak" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetNameArr">
+      <soap:operation soapAction="http://tempuri.org/GetNameArr" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="NameDontExist">
+      <soap:operation soapAction="http://tempuri.org/NameDontExist" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertSapak">
+      <soap:operation soapAction="http://tempuri.org/InsertSapak" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getInfoFromSapak">
+      <soap:operation soapAction="http://tempuri.org/getInfoFromSapak" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WebService1Soap12" type="tns:WebService1Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetSapak">
+      <soap12:operation soapAction="http://tempuri.org/GetSapak" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetNameArr">
+      <soap12:operation soapAction="http://tempuri.org/GetNameArr" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="NameDontExist">
+      <soap12:operation soapAction="http://tempuri.org/NameDontExist" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertSapak">
+      <soap12:operation soapAction="http://tempuri.org/InsertSapak" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getInfoFromSapak">
+      <soap12:operation soapAction="http://tempuri.org/getInfoFromSapak" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WebService1">
+    <wsdl:port name="WebService1Soap" binding="tns:WebService1Soap">
+      <soap:address location="https://localhost:44334/MyWebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WebService1Soap12" binding="tns:WebService1Soap12">
+      <soap12:address location="https://localhost:44334/MyWebService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

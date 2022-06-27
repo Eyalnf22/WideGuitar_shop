@@ -1,0 +1,235 @@
+﻿body {
+    background-color: LightSlateGrey;
+    font-family: 'Guttman Hatzvi';
+}
+
+.par {
+    background-image: url("images/blue.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 80%;
+    margin: auto;
+    height: 100%;
+    border: 5px solid;
+    position: relative;
+    z-index: 0;
+}
+
+.title {
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+    background-image: url("images/gray.jpg");
+    font-size: 50px;
+}
+
+.box {
+    margin-right: 5px;
+    border-radius: 10px;
+    transition: width .35s ease-in-out;
+    width: 150px;
+    position: relative;
+    font-family: David;
+    font-size: 20px;
+}
+
+    .box:focus {
+        width: 200px;
+    }
+
+.tbl {
+    font-size: 20px;
+    width: 90%;
+    background-color: white;
+    margin: auto;
+    height: 50%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-right: 10px;
+}
+
+
+td {
+    padding: 10px;
+    width: 50%;
+}
+
+.req {
+    color: red;
+}
+
+.send {
+    margin: 20px;
+    position: static;
+    height: 40px;
+    width: 80px;
+    font-family: 'Guttman Hatzvi';
+    background-image: radial-gradient(circle, LightSkyBlue, PowderBlue, CornflowerBlue);
+    font-size: 25px;
+}
+
+    .send:hover {
+        height: 35px;
+        width: 87.5px;
+        cursor: pointer;
+    }
+
+.error {
+    width: 35%;
+    background-color: #fff2e6;
+    border: 2px;
+    position: fixed;
+    z-index: 2;
+    right: 32%;
+    padding: 20px;
+    padding-bottom: 35px;
+    border: 6px solid #ff8000;
+    font-size: 20px;
+    top: 35%;
+}
+
+.overlay {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+    z-index: 1;
+    opacity: 0.6;
+}
+
+.exitImg {
+    float: right;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+
+a:link {
+    color: #0000ff;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #0000ff;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: Highlight;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.productImg {
+    border: 6px solid #ff8000;
+}
+
+    .productImg:hover {
+        opacity: 0.8;
+    }
+
+
+
+.zoom {
+    height: 600px;
+    position: fixed;
+    z-index: 2;
+    top: 10%;
+    right: 40%;
+}
+
+.exitInsImg {
+    float: right;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+}
+
+
+
+.viewImg {
+    border-radius: 10px;
+    transition: width .35s ease-in-out;
+    width: 150px;
+    position: relative;
+    font-family: David;
+    font-size: 20px;
+}
+
+
+.color:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.cssLink {
+    color: black;
+}
+
+    .cssLink:link {
+        color: black;
+        background-color: transparent;
+    }
+
+    .cssLink:visited {
+        color: #0000ff;
+        background-color: transparent;
+        text-decoration: none;
+    }
+
+.panelZoom {
+    display: none;
+}
+
+.cart {
+    position: fixed;
+    top: 40px;
+    z-index: 2;
+    width: 20%;
+    height: 10%;
+    background-color: red;
+}
+
+.roken {
+    position: absolute;
+    right: 15%;
+    top: 5px;
+}
+
+.head {
+    display: block;
+}
+
+td {
+    border-spacing: 0;
+}
+
+.infoCell {
+    padding: 10px;
+    background-color: powderblue;
+    border-radius: 10px;
+    font-size: 35px;
+    width: 100%;
+}
+
+.opacityCss:hover {
+    opacity: 0.8;
+}
+
+.cartBtn {
+}
+
+.boxer {
+    margin-right: 5px;
+    border-radius: 10px;
+    transition: width .35s ease-in-out;
+    width: 150px;
+    position: relative;
+    font-family: David;
+    font-size: 20px;
+}

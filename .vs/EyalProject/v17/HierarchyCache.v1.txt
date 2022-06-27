@@ -1,0 +1,1153 @@
+﻿++Solution 'EyalProject' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:EyalProject.sln
+++EyalProject
+i:{00000000-0000-0000-0000-000000000000}:EyalProject
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\eyalproject\
+++Connected Services
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\connected services\
+++Properties
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\properties\
+++References
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++Web References
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\web references\
+++FarFarAway
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\web references\farfaraway\
+++.vs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\
+++bin
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\
+++images
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\images\
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images
+++intrumentsImagesDB
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\
+++obj
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\obj\
+++Debug
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\obj\debug\
+++.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\obj\debug\.netframework,version=v4.7.2.assemblyattributes.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\obj\debug (1)\.netframework,version=v4.7.2.assemblyattributes.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\obj\release\.netframework,version=v4.7.2.assemblyattributes.cs
+++Debug (1)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\obj\debug (1)\
+++TempPE (1)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\obj\debug (1)\temppe (1)\
+++DesignTimeResolveAssemblyReferencesInput (1).cache
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\obj\debug (1)\designtimeresolveassemblyreferencesinput (1).cache
+++EyalProject (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\obj\debug (1)\eyalproject (1).dll
+++EyalProject (1).pdb
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\obj\debug (1)\eyalproject (1).pdb
+++EyalProject.csproj (1).CopyComplete
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\obj\debug (1)\eyalproject.csproj (1).copycomplete
+++EyalProject.csproj.AssemblyReference (1).cache
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\obj\debug (1)\eyalproject.csproj.assemblyreference (1).cache
+++EyalProject.csproj.CoreCompileInputs (1).cache
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\obj\debug (1)\eyalproject.csproj.corecompileinputs (1).cache
+++EyalProject.csproj.FileListAbsolute (1).txt
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\obj\debug (1)\eyalproject.csproj.filelistabsolute (1).txt
+++Release
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\obj\release\
+++packages
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\
+++pics
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\pics\
+++UsersProflePics
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\usersproflepics\
+++Account.aspx
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\account.aspx
+++adminMaster.Master
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\adminmaster.master
+++basket.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\basket.cs
+++eyalDataBase.accdb
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\eyaldatabase.accdb
+++eyalDataBase.laccdb
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\eyaldatabase.laccdb
+++HomePage.aspx
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\homepage.aspx
+++HomePage.aspx.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\homepage.aspx.cs
+++HomePage.aspx.designer.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\homepage.aspx.designer.cs
+++InsertCity.aspx
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\insertcity.aspx
+++InsertInst.aspx
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\insertinst.aspx
+++InsertInst.aspx.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\insertinst.aspx.cs
+++InsertInst.aspx.designer.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\insertinst.aspx.designer.cs
+++InsertPage.aspx
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\insertpage.aspx
+++InsertPage.aspx.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\insertpage.aspx.cs
+++InsertPage.aspx.designer.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\insertpage.aspx.designer.cs
+++item.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\item.cs
+++Login.aspx
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\login.aspx
+++Login.aspx.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\login.aspx.cs
+++Login.aspx.designer.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\login.aspx.designer.cs
+++Menu.aspx
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\menu.aspx
+++Menu.aspx.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\menu.aspx.cs
+++Menu.aspx.designer.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\menu.aspx.designer.cs
+++MyDeals.aspx
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\mydeals.aspx
+++MyDeals.aspx.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\mydeals.aspx.cs
+++MyDeals.aspx.designer.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\mydeals.aspx.designer.cs
+++myLibrary.aspx
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\mylibrary.aspx
+++myLibrary.aspx.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\mylibrary.aspx.cs
+++myLibrary.aspx.designer.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\mylibrary.aspx.designer.cs
+++MyOrders.aspx
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\myorders.aspx
+++MyScript.js
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\myscript.js
+++packages.config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages.config
+++Pay.aspx
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\pay.aspx
+++Pay.aspx.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\pay.aspx.cs
+++Pay.aspx.designer.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\pay.aspx.designer.cs
+++searchDel.aspx
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\searchdel.aspx
+++searchDel.aspx.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\searchdel.aspx.cs
+++searchDel.aspx.designer.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\searchdel.aspx.designer.cs
+++showProducts.aspx
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\showproducts.aspx
+++SignUp.aspx
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\signup.aspx
+++SignUp.aspx.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\signup.aspx.cs
+++SignUp.aspx.designer.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\signup.aspx.designer.cs
+++Stat.aspx
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\stat.aspx
+++StyleSheet.css
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\stylesheet.css
+++update.aspx
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\update.aspx
+++Web.config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\web.config
+++AssemblyInfo.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\properties\assemblyinfo.cs
+++Settings.settings
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\properties\settings.settings
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++Microsoft.CSharp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++System
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++System.ComponentModel.DataAnnotations
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++System.Configuration
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++System.Core
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++System.Data
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++System.Data.DataSetExtensions
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++System.Drawing
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++System.EnterpriseServices
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++System.Web
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++System.Web.ApplicationServices
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++System.Web.DataVisualization
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++System.Web.DynamicData
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++System.Web.Entity
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++System.Web.Extensions
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++System.Web.Services
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++System.Xml
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++System.Xml.Linq
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:
+++MyWebService.disco
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\web references\farfaraway\mywebservice.disco
+++MyWebService.wsdl
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\web references\farfaraway\mywebservice.wsdl
+++Reference.map
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\web references\farfaraway\reference.map
+++EyalProject after fix
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\eyalproject after fix\
+++ProjectSettings.json
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\projectsettings.json
+++slnx.sqlite
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\slnx.sqlite
+++VSWorkspaceState.json
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\vsworkspacestate.json
+++roslyn
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\
+++EyalProject.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\eyalproject.dll
+++EyalProject.dll .config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\eyalproject.dll .config
+++EyalProject.dll.config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\eyalproject.dll.config
+++EyalProject.pdb
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\eyalproject.pdb
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\microsoft.codedom.providers.dotnetcompilerplatform.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\lib\net45\microsoft.codedom.providers.dotnetcompilerplatform.dll
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\microsoft.codedom.providers.dotnetcompilerplatform.xml
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\lib\net45\microsoft.codedom.providers.dotnetcompilerplatform.xml
+++blue.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\images\blue.jpg
+++gray.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\images\gray.jpg
+++sql.rtf
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\images\sql.rtf
+++web.rtf
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\images\web.rtf
+++sop3_files
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\
+++aco2.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\aco2.png
+++aco5.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\aco5.jpg
+++acostic5.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\acostic5.jpg
+++acoststicas.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\acoststicas.jpg
+++allAco.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\allaco.jpg
+++Allbass.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\allbass.jpg
+++AllBlow.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\allblow.png
+++allBriKat.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\allbrikat.jpg
+++amp1.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\amp1.jpg
+++amp2.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\amp2.jpg
+++amp3.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\amp3.jpg
+++amp4.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\amp4.jpg
+++amp5.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\amp5.jpg
+++amp6.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\amp6.jpg
+++amp8.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\amp8.jpg
+++ampAll.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\ampall.png
+++backBlack.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\backblack.jpg
+++bass1.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\bass1.jpg
+++bass3.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\bass3.jpg
+++bass4.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\bass4.jpg
+++bass45.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\bass45.jpg
+++bass56.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\bass56.jpg
+++bassie3.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\bassie3.jpg
+++bes2.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\bes2.jpg
+++bestGuitar.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\bestguitar.jpg
+++blow3.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\blow3.png
+++bri.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\bri.jpg
+++bri2.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\bri2.jpg
+++bri3.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\bri3.jpg
+++bri4.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\bri4.jpg
+++bri5.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\bri5.jpg
+++bri6.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\bri6.jpg
+++bri7.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\bri7.jpg
+++bri8.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\bri8.jpg
+++briAll.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\briall.png
+++calssicGuitarAll.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\calssicguitarall.jpg
+++calssicManG.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\calssicmang.jpg
+++clas3.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\clas3.jpg
+++clasocG.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\clasocg.jpg
+++con1.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\con1.jpg
+++con2.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\con2.jpg
+++con3.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\con3.jpg
+++conAll.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\conall.jpg
+++cook.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\cook.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\usersproflepics\cook.jpg
+++cyan.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\cyan.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\usersproflepics\cyan.jpg
+++de1.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\de1.jpg
+++de2.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\de2.jpg
+++de3.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\de3.png
+++de4.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\de4.jpg
+++de5.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\de5.jpg
+++dibil.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\dibil.jpg
+++drumelectAll.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\drumelectall.jpg
+++drums.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\drums.jpg
+++drums2.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\drums2.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\usersproflepics\drums2.jpg
+++drumsAll.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\drumsall.jpg
+++drumsYama.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\drumsyama.jpg
+++elcGfender.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\elcgfender.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\usersproflepics\elcgfender.jpg
+++elecAll.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\elecall.jpg
+++g4.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\g4.png
+++greenie.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\greenie.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\usersproflepics\greenie.jpg
+++guitar1.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\guitar1.jpg
+++guitar13.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\guitar13.jpg
+++guitar2.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\guitar2.png
+++guitarHome4.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\guitarhome4.jpg
+++guitars.jpeg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\guitars.jpeg
+++gyitar4.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\gyitar4.jpg
+++keren2.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\keren2.png
+++kiddoDrums3.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\kiddodrums3.jpg
+++leftG.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\leftg.jpg
+++no1.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\no1.jpg
+++no10.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\no10.jpg
+++no11.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\no11.jpg
+++no12.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\no12.jpg
+++no13.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\no13.jpg
+++no14.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\no14.jpg
+++no15.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\no15.jpg
+++no2.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\no2.jpg
+++no3.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\no3.jpg
+++no4.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\no4.jpg
+++no5.jpeg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\no5.jpeg
+++no5.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\no5.jpg
+++no6.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\no6.jpg
+++no7.jpeg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\no7.jpeg
+++no8.jpeg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\no8.jpeg
+++no9.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\no9.jpg
+++normalAll.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\normalall.png
+++or1.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\or1.jpg
+++or2.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\or2.jpg
+++or3.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\or3.jpg
+++or5.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\or5.jpg
+++organ1.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\organ1.jpg
+++organ2.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\organ2.jpg
+++ori.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\ori.jpg
+++piano3.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\piano3.jpg
+++pianoAll.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\pianoall.jpg
+++rounded.jpeg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\rounded.jpeg
+++Screenshot 2022-04-19 134453.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\screenshot 2022-04-19 134453.png
+++singaldrum2.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\singaldrum2.jpg
+++sop.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop.jpg
+++sop2.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop2.jpg
+++sop3.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3.jpg
+++sop4.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop4.jpg
+++sop5.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop5.jpg
+++sop6.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop6.jpg
+++sop7.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop7.jpg
+++sop8.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop8.jpg
+++sopAll.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sopall.jpg
+++ten3.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\ten3.jpg
+++tenAll.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\tenall.jpg
+++tenor1.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\tenor1.jpg
+++tenor3.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\tenor3.jpg
+++tenor31.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\tenor31.jpg
+++tenorr3.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\tenorr3.jpg
+++tigerGuitar.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\tigerguitar.jpg
+++ukeAll.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\ukeall.jpg
+++WhatsApp Image 2022-04-06 at 22.56.53.jpeg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\whatsapp image 2022-04-06 at 22.56.53.jpeg
+++WIN_20220111_02_29_15_Pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\win_20220111_02_29_15_pro.jpg
+++WIN_20220118_11_21_13_Pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\win_20220118_11_21_13_pro.jpg
+++WIN_20220118_11_21_54_Pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\win_20220118_11_21_54_pro.jpg
+++WIN_20220125_15_44_24_Pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\win_20220125_15_44_24_pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\usersproflepics\win_20220125_15_44_24_pro.jpg
+++WIN_20220125_15_44_39_Pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\win_20220125_15_44_39_pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\usersproflepics\win_20220125_15_44_39_pro.jpg
+++WIN_20220125_15_44_47_Pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\win_20220125_15_44_47_pro.jpg
+++WIN_20220125_15_44_48_Pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\win_20220125_15_44_48_pro.jpg
+++WIN_20220125_15_44_49_Pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\win_20220125_15_44_49_pro.jpg
+++WIN_20220125_15_44_50_Pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\win_20220125_15_44_50_pro.jpg
+++WIN_20220125_15_44_51_Pro (2).jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\win_20220125_15_44_51_pro (2).jpg
+++WIN_20220125_15_44_51_Pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\win_20220125_15_44_51_pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\usersproflepics\win_20220125_15_44_51_pro.jpg
+++WIN_20220131_11_43_55_Pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\win_20220131_11_43_55_pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\usersproflepics\win_20220131_11_43_55_pro.jpg
+++WIN_20220131_11_43_56_Pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\win_20220131_11_43_56_pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\usersproflepics\win_20220131_11_43_56_pro.jpg
+++WIN_20220131_11_44_02_Pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\win_20220131_11_44_02_pro.jpg
+++WIN_20220131_11_44_03_Pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\win_20220131_11_44_03_pro.jpg
+++WIN_20220213_12_23_06_Pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\win_20220213_12_23_06_pro.jpg
+++WIN_20220322_17_13_29_Pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\win_20220322_17_13_29_pro.jpg
+++WIN_20220325_13_25_47_Pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\win_20220325_13_25_47_pro.jpg
+++x0ajjdtqpdp31.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\x0ajjdtqpdp31.jpg
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0 (1).1
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\
+++cart.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\pics\cart.png
+++error.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\pics\error.png
+++monkey.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\pics\monkey.jpg
+++NanProfile.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\pics\nanprofile.png
+++SapakLogo.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\pics\sapaklogo.jpg
+++SapakLogo.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\pics\sapaklogo.png
+++trash.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\pics\trash.png
+++wideGuitarLogo.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\pics\wideguitarlogo.png
+++Capture.PNG
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\usersproflepics\capture.png
+++profile picture סמכותי.jpeg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\usersproflepics\profile picture סמכותי.jpeg
+++Screenshot 2022-03-18 235638.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\usersproflepics\screenshot 2022-03-18 235638.png
+++WIN_20220109_14_02_45_Pro.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\usersproflepics\win_20220109_14_02_45_pro.jpg
+++Account.aspx.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\account.aspx.cs
+++Account.aspx.designer.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\account.aspx.designer.cs
+++adminMaster.Master.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\adminmaster.master.cs
+++adminMaster.Master.designer.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\adminmaster.master.designer.cs
+++InsertCity.aspx.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\insertcity.aspx.cs
+++InsertCity.aspx.designer.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\insertcity.aspx.designer.cs
+++MyOrders.aspx.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\myorders.aspx.cs
+++MyOrders.aspx.designer.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\myorders.aspx.designer.cs
+++showProducts.aspx.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\showproducts.aspx.cs
+++showProducts.aspx.designer.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\showproducts.aspx.designer.cs
+++Stat.aspx.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\stat.aspx.cs
+++Stat.aspx.designer.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\stat.aspx.designer.cs
+++update.aspx.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\update.aspx.cs
+++update.aspx.designer.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\update.aspx.designer.cs
+++Web.Debug.config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\web.debug.config
+++Web.Release.config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\web.release.config
+++Settings.Designer.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\properties\settings.designer.cs
+++Reference.cs
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\web references\farfaraway\reference.cs
+++config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\eyalproject\config\
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\eyalproject after fix\config\
+++v16
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\eyalproject\v16\
+++v17
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\eyalproject\v17\
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\eyalproject after fix\v17\
+++project-colors.json
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\eyalproject\project-colors.json
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\eyalproject after fix\project-colors.json
+++csc (1).exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\csc (1).exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\csc (1).exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\csc (1).exe
+++csc (1).rsp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\csc (1).rsp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\csc (1).rsp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\csc (1).rsp
+++csc.exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\csc.exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\csc.exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\csc.exe
+++csc.exe (1).config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\csc.exe (1).config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\csc.exe (1).config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\csc.exe (1).config
+++csc.exe.config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\csc.exe.config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\csc.exe.config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\csc.exe.config
+++csc.rsp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\csc.rsp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\csc.rsp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\csc.rsp
+++csi (1).exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\csi (1).exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\csi (1).exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\csi (1).exe
+++csi (1).rsp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\csi (1).rsp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\csi (1).rsp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\csi (1).rsp
+++csi.exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\csi.exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\csi.exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\csi.exe
+++csi.exe (1).config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\csi.exe (1).config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\csi.exe (1).config
+++csi.exe.config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\csi.exe.config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\csi.exe.config
+++csi.rsp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\csi.rsp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\csi.rsp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\csi.rsp
+++Microsoft.Build.Tasks.CodeAnalysis (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.build.tasks.codeanalysis (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\microsoft.build.tasks.codeanalysis (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\microsoft.build.tasks.codeanalysis (1).dll
+++Microsoft.Build.Tasks.CodeAnalysis.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.build.tasks.codeanalysis.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.build.tasks.codeanalysis.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.build.tasks.codeanalysis.dll
+++Microsoft.CodeAnalysis (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.codeanalysis (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\microsoft.codeanalysis (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\microsoft.codeanalysis (1).dll
+++Microsoft.CodeAnalysis.CSharp (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.codeanalysis.csharp (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\microsoft.codeanalysis.csharp (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\microsoft.codeanalysis.csharp (1).dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.codeanalysis.csharp.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.codeanalysis.csharp.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.codeanalysis.csharp.scripting (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\microsoft.codeanalysis.csharp.scripting (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\microsoft.codeanalysis.csharp.scripting (1).dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.codeanalysis.csharp.scripting.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.codeanalysis.csharp.scripting.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.codeanalysis.csharp.scripting.dll
+++Microsoft.CodeAnalysis.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.codeanalysis.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.codeanalysis.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Scripting (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.codeanalysis.scripting (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\microsoft.codeanalysis.scripting (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\microsoft.codeanalysis.scripting (1).dll
+++Microsoft.CodeAnalysis.Scripting.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.codeanalysis.scripting.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.codeanalysis.scripting.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.codeanalysis.scripting.dll
+++Microsoft.CodeAnalysis.VisualBasic (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.codeanalysis.visualbasic (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\microsoft.codeanalysis.visualbasic (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\microsoft.codeanalysis.visualbasic (1).dll
+++Microsoft.CodeAnalysis.VisualBasic.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.codeanalysis.visualbasic.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.codeanalysis.visualbasic.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.codeanalysis.visualbasic.dll
+++Microsoft.CSharp.Core (1).targets
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.csharp.core (1).targets
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\microsoft.csharp.core (1).targets
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\microsoft.csharp.core (1).targets
+++Microsoft.CSharp.Core.targets
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.csharp.core.targets
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.csharp.core.targets
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.csharp.core.targets
+++Microsoft.DiaSymReader.Native.amd64 (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.diasymreader.native.amd64 (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\microsoft.diasymreader.native.amd64 (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\microsoft.diasymreader.native.amd64 (1).dll
+++Microsoft.DiaSymReader.Native.amd64.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.diasymreader.native.amd64.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.diasymreader.native.amd64.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.diasymreader.native.amd64.dll
+++Microsoft.DiaSymReader.Native.x86 (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.diasymreader.native.x86 (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\microsoft.diasymreader.native.x86 (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\microsoft.diasymreader.native.x86 (1).dll
+++Microsoft.DiaSymReader.Native.x86.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.diasymreader.native.x86.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.diasymreader.native.x86.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.diasymreader.native.x86.dll
+++Microsoft.Managed.Core (1).targets
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.managed.core (1).targets
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\microsoft.managed.core (1).targets
+++Microsoft.Managed.Core.targets
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.managed.core.targets
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.managed.core.targets
+++Microsoft.VisualBasic.Core (1).targets
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.visualbasic.core (1).targets
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\microsoft.visualbasic.core (1).targets
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\microsoft.visualbasic.core (1).targets
+++Microsoft.VisualBasic.Core.targets
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.visualbasic.core.targets
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\microsoft.visualbasic.core.targets
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.visualbasic.core.targets
+++Microsoft.Win32.Primitives (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.win32.primitives (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\microsoft.win32.primitives (1).dll
+++Microsoft.Win32.Primitives.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\microsoft.win32.primitives.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\microsoft.win32.primitives.dll
+++System.AppContext (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.appcontext (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\system.appcontext (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.appcontext (1).dll
+++System.AppContext.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.appcontext.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\system.appcontext.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.appcontext.dll
+++System.Collections.Immutable (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.collections.immutable (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\system.collections.immutable (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.collections.immutable (1).dll
+++System.Collections.Immutable.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.collections.immutable.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\system.collections.immutable.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.collections.immutable.dll
+++System.Console (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.console (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.console (1).dll
+++System.Console.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.console.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.console.dll
+++System.Diagnostics.DiagnosticSource (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.diagnostics.diagnosticsource (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.diagnostics.diagnosticsource (1).dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.diagnostics.diagnosticsource.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.diagnostics.diagnosticsource.dll
+++System.Diagnostics.FileVersionInfo (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.diagnostics.fileversioninfo (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.diagnostics.fileversioninfo (1).dll
+++System.Diagnostics.FileVersionInfo.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.diagnostics.fileversioninfo.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.diagnostics.fileversioninfo.dll
+++System.Diagnostics.StackTrace (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.diagnostics.stacktrace (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\system.diagnostics.stacktrace (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.diagnostics.stacktrace (1).dll
+++System.Diagnostics.StackTrace.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.diagnostics.stacktrace.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\system.diagnostics.stacktrace.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.diagnostics.stacktrace.dll
+++System.Globalization.Calendars (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.globalization.calendars (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.globalization.calendars (1).dll
+++System.Globalization.Calendars.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.globalization.calendars.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.globalization.calendars.dll
+++System.IO.Compression (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.io.compression (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.io.compression (1).dll
+++System.IO.Compression.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.io.compression.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.io.compression.dll
+++System.IO.Compression.ZipFile (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.io.compression.zipfile (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.io.compression.zipfile (1).dll
+++System.IO.Compression.ZipFile.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.io.compression.zipfile.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.io.compression.zipfile.dll
+++System.IO.FileSystem (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.io.filesystem (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\system.io.filesystem (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.io.filesystem (1).dll
+++System.IO.FileSystem.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.io.filesystem.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\system.io.filesystem.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.io.filesystem.dll
+++System.IO.FileSystem.Primitives (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.io.filesystem.primitives (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\system.io.filesystem.primitives (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.io.filesystem.primitives (1).dll
+++System.IO.FileSystem.Primitives.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.io.filesystem.primitives.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\system.io.filesystem.primitives.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.io.filesystem.primitives.dll
+++System.Net.Http (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.net.http (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.net.http (1).dll
+++System.Net.Http.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.net.http.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.net.http.dll
+++System.Net.Sockets (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.net.sockets (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.net.sockets (1).dll
+++System.Net.Sockets.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.net.sockets.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.net.sockets.dll
+++System.Reflection.Metadata (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.reflection.metadata (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\system.reflection.metadata (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.reflection.metadata (1).dll
+++System.Reflection.Metadata.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.reflection.metadata.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\system.reflection.metadata.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.reflection.metadata.dll
+++System.Runtime.InteropServices.RuntimeInformation (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.runtime.interopservices.runtimeinformation (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.runtime.interopservices.runtimeinformation (1).dll
+++System.Runtime.InteropServices.RuntimeInformation.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.runtime.interopservices.runtimeinformation.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.runtime.interopservices.runtimeinformation.dll
+++System.Security.Cryptography.Algorithms (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.security.cryptography.algorithms (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.security.cryptography.algorithms (1).dll
+++System.Security.Cryptography.Algorithms.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.security.cryptography.algorithms.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.security.cryptography.algorithms.dll
+++System.Security.Cryptography.Encoding (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.security.cryptography.encoding (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.security.cryptography.encoding (1).dll
+++System.Security.Cryptography.Encoding.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.security.cryptography.encoding.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.security.cryptography.encoding.dll
+++System.Security.Cryptography.Primitives (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.security.cryptography.primitives (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.security.cryptography.primitives (1).dll
+++System.Security.Cryptography.Primitives.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.security.cryptography.primitives.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.security.cryptography.primitives.dll
+++System.Security.Cryptography.X509Certificates (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.security.cryptography.x509certificates (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.security.cryptography.x509certificates (1).dll
+++System.Security.Cryptography.X509Certificates.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.security.cryptography.x509certificates.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.security.cryptography.x509certificates.dll
+++System.Text.Encoding.CodePages (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.text.encoding.codepages (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.text.encoding.codepages (1).dll
+++System.Text.Encoding.CodePages.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.text.encoding.codepages.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.text.encoding.codepages.dll
+++System.Threading.Tasks.Extensions (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.threading.tasks.extensions (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.threading.tasks.extensions (1).dll
+++System.Threading.Tasks.Extensions.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.threading.tasks.extensions.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.threading.tasks.extensions.dll
+++System.ValueTuple (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.valuetuple (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.valuetuple (1).dll
+++System.ValueTuple.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.valuetuple.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.valuetuple.dll
+++System.Xml.ReaderWriter (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.xml.readerwriter (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.xml.readerwriter (1).dll
+++System.Xml.ReaderWriter.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.xml.readerwriter.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.xml.readerwriter.dll
+++System.Xml.XmlDocument (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.xml.xmldocument (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.xml.xmldocument (1).dll
+++System.Xml.XmlDocument.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.xml.xmldocument.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.xml.xmldocument.dll
+++System.Xml.XPath (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.xml.xpath (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.xml.xpath (1).dll
+++System.Xml.XPath.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.xml.xpath.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.xml.xpath.dll
+++System.Xml.XPath.XDocument (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.xml.xpath.xdocument (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\system.xml.xpath.xdocument (1).dll
+++System.Xml.XPath.XDocument.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\system.xml.xpath.xdocument.dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\system.xml.xpath.xdocument.dll
+++vbc (1).exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\vbc (1).exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\vbc (1).exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\vbc (1).exe
+++vbc (1).rsp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\vbc (1).rsp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\vbc (1).rsp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\vbc (1).rsp
+++vbc.exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\vbc.exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\vbc.exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\vbc.exe
+++vbc.exe (1).config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\vbc.exe (1).config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\vbc.exe (1).config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\vbc.exe (1).config
+++vbc.exe.config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\vbc.exe.config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\vbc.exe.config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\vbc.exe.config
+++vbc.rsp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\vbc.rsp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\vbc.rsp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\vbc.rsp
+++VBCSCompiler (1).exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\vbcscompiler (1).exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\vbcscompiler (1).exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\vbcscompiler (1).exe
+++VBCSCompiler.exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\vbcscompiler.exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\vbcscompiler.exe
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\vbcscompiler.exe
+++VBCSCompiler.exe (1).config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\vbcscompiler.exe (1).config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\vbcscompiler.exe (1).config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\vbcscompiler.exe (1).config
+++VBCSCompiler.exe.config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\bin\roslyn\vbcscompiler.exe.config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\vbcscompiler.exe.config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\vbcscompiler.exe.config
+++app.html
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\app.html
+++cb=gapi.loaded_0
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\cb=gapi.loaded_0
+++dark_thumbnail2.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\dark_thumbnail2.png
+++device_default_thumbnail2.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\device_default_thumbnail2.png
+++faviconV2
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\faviconv2
+++faviconV2(1)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\faviconv2(1)
+++faviconV2(2)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\faviconv2(2)
+++images(1)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(1)
+++images(10)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(10)
+++images(11)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(11)
+++images(12)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(12)
+++images(13)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(13)
+++images(14)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(14)
+++images(15)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(15)
+++images(16)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(16)
+++images(17)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(17)
+++images(18)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(18)
+++images(19)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(19)
+++images(2)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(2)
+++images(20)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(20)
+++images(21)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(21)
+++images(22)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(22)
+++images(23)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(23)
+++images(24)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(24)
+++images(25)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(25)
+++images(26)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(26)
+++images(27)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(27)
+++images(28)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(28)
+++images(29)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(29)
+++images(3)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(3)
+++images(30)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(30)
+++images(31)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(31)
+++images(32)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(32)
+++images(33)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(33)
+++images(34)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(34)
+++images(35)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(35)
+++images(36)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(36)
+++images(37)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(37)
+++images(38)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(38)
+++images(39)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(39)
+++images(4)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(4)
+++images(40)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(40)
+++images(41)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(41)
+++images(42)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(42)
+++images(43)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(43)
+++images(44)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(44)
+++images(5)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(5)
+++images(6)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(6)
+++images(7)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(7)
+++images(8)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(8)
+++images(9)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\images(9)
+++light_thumbnail2.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\light_thumbnail2.png
+++m=_b,_tp
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\m=_b,_tp
+++m=_b,_tp(1)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\m=_b,_tp(1)
+++MA-S-angle-2.jpg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\ma-s-angle-2.jpg
+++rs=AA2YrTue4GbpmaaJUr5DgiDj78EPxNS2RQ
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\rs=aa2yrtue4gbpmaajur5dgidj78epxns2rq
+++rs=AA2YrTutMTYV2gX1_xRisUqFyjfS8IXSPQ
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\rs=aa2yrtutmtyv2gx1_xrisuqfyjfs8ixspq
+++unnamed.png
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\intrumentsimagesdb\sop3_files\unnamed.png
+++build (1)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\build (1)\
+++content (1)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\content (1)\
+++lib (1)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\lib (1)\
+++tools (1)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\
+++.signature (1).p7s
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\.signature (1).p7s
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1 (1).nupkg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1 (1).nupkg
+++build
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\
+++content
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\
+++lib
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\lib\
+++tools
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\
+++.signature.p7s
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\.signature.p7s
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1.nupkg
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1.nupkg
+++applicationhost (1).config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\eyalproject\config\applicationhost (1).config
+++applicationhost.config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\eyalproject\config\applicationhost.config
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\eyalproject after fix\config\applicationhost.config
+++(1).suo
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\eyalproject\v16\(1).suo
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\eyalproject\v17\(1).suo
+++HierarchyCache.v1.txt
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\.vs\eyalproject\v17\hierarchycache.v1.txt
+++net45 (1)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\build (1)\net45 (1)\
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\content (1)\net45 (1)\
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\lib (1)\net45 (1)\
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\net45 (1)\
+++net46 (1)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\build (1)\net46 (1)\
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\content (1)\net46 (1)\
+++Roslyn45 (1)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslyn45 (1)\
+++RoslynLatest (1)
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\roslynlatest (1)\
+++net45
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\net45\
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net45\
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\lib\net45\
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\net45\
+++net46
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\net46\
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net46\
+++Roslyn45
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslyn45\
+++RoslynLatest
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\roslynlatest\
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform (1).props
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\build (1)\net45 (1)\microsoft.codedom.providers.dotnetcompilerplatform (1).props
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\build (1)\net46 (1)\microsoft.codedom.providers.dotnetcompilerplatform (1).props
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions (1).props
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\build (1)\net45 (1)\microsoft.codedom.providers.dotnetcompilerplatform.extensions (1).props
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\build (1)\net46 (1)\microsoft.codedom.providers.dotnetcompilerplatform.extensions (1).props
+++app.config.install (1).xdt
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\content (1)\net45 (1)\app.config.install (1).xdt
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\content (1)\net46 (1)\app.config.install (1).xdt
+++app.config.uninstall (1).xdt
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\content (1)\net45 (1)\app.config.uninstall (1).xdt
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\content (1)\net46 (1)\app.config.uninstall (1).xdt
+++web.config.install (1).xdt
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\content (1)\net45 (1)\web.config.install (1).xdt
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\content (1)\net46 (1)\web.config.install (1).xdt
+++web.config.uninstall (1).xdt
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\content (1)\net45 (1)\web.config.uninstall (1).xdt
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\content (1)\net46 (1)\web.config.uninstall (1).xdt
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform (1).dll
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\lib (1)\net45 (1)\microsoft.codedom.providers.dotnetcompilerplatform (1).dll
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform (1).xml
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\lib (1)\net45 (1)\microsoft.codedom.providers.dotnetcompilerplatform (1).xml
+++install (1).ps1
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\net45 (1)\install (1).ps1
+++uninstall (1).ps1
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0 (1).1\tools (1)\net45 (1)\uninstall (1).ps1
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\net45\microsoft.codedom.providers.dotnetcompilerplatform.extensions.props
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\net46\microsoft.codedom.providers.dotnetcompilerplatform.extensions.props
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\net45\microsoft.codedom.providers.dotnetcompilerplatform.props
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\build\net46\microsoft.codedom.providers.dotnetcompilerplatform.props
+++app.config.install.xdt
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net45\app.config.install.xdt
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net46\app.config.install.xdt
+++app.config.uninstall.xdt
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net45\app.config.uninstall.xdt
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net46\app.config.uninstall.xdt
+++web.config.install.xdt
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net45\web.config.install.xdt
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net46\web.config.install.xdt
+++web.config.uninstall.xdt
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net45\web.config.uninstall.xdt
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\content\net46\web.config.uninstall.xdt
+++install.ps1
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\net45\install.ps1
+++uninstall.ps1
+i:{0be30ce7-f2d1-468b-a689-44f96bffc9b1}:d:\yoav\eyalproject 23.3 my cart repeater\packages\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1\tools\net45\uninstall.ps1

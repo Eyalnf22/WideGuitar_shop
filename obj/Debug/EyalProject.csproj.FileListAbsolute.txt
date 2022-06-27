@@ -1,0 +1,1296 @@
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\obj\Debug\EyalProject.csproj.AssemblyReference.cache
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\obj\Debug\EyalProject.csproj.CoreCompileInputs.cache
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\EyalProject.dll.config
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\EyalProject.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\EyalProject.pdb
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\csc (1).exe
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\csc (1).rsp
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\csc.exe
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\csc.exe (1).config
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\csc.exe.config
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\csc.rsp
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\csi (1).exe
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\csi (1).rsp
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\csi.exe
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\csi.exe (1).config
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\csi.exe.config
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\csi.rsp
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.CodeAnalysis (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.CodeAnalysis.CSharp (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.CodeAnalysis.Scripting (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.CSharp.Core (1).targets
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64 (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.DiaSymReader.Native.x86 (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.Managed.Core (1).targets
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.VisualBasic.Core (1).targets
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.Win32.Primitives (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.AppContext (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.AppContext.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Collections.Immutable (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Collections.Immutable.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Console (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Console.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Diagnostics.DiagnosticSource (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Diagnostics.FileVersionInfo (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Diagnostics.StackTrace (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Globalization.Calendars (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Globalization.Calendars.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.IO.Compression (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.IO.Compression.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.IO.Compression.ZipFile (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.IO.FileSystem (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.IO.FileSystem.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.IO.FileSystem.Primitives (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Net.Http (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Net.Http.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Net.Sockets (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Net.Sockets.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Reflection.Metadata (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Security.Cryptography.Algorithms (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Security.Cryptography.Encoding (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Security.Cryptography.Primitives (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Security.Cryptography.X509Certificates (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Text.Encoding.CodePages (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Threading.Tasks.Extensions (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.ValueTuple (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.ValueTuple.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Xml.ReaderWriter (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Xml.XmlDocument (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Xml.XPath (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Xml.XPath.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Xml.XPath.XDocument (1).dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\vbc (1).exe
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\vbc (1).rsp
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\vbc.exe
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\vbc.exe (1).config
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\vbc.exe.config
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\vbc.rsp
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\VBCSCompiler (1).exe
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\VBCSCompiler.exe
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\VBCSCompiler.exe (1).config
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\roslyn\VBCSCompiler.exe.config
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\obj\Debug\EyalProject.csproj.CopyComplete
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\obj\Debug\EyalProject.dll
+D:\Yoav\here\EyalProject עם ספרייה והורשה אבל בלי CATCH\obj\Debug\EyalProject.pdb
+D:\Yoav\EyalProject after fix\bin\EyalProject.dll.config
+D:\Yoav\EyalProject after fix\bin\EyalProject.dll
+D:\Yoav\EyalProject after fix\bin\EyalProject.pdb
+D:\Yoav\EyalProject after fix\bin\roslyn\csc (1).exe
+D:\Yoav\EyalProject after fix\bin\roslyn\csc (1).rsp
+D:\Yoav\EyalProject after fix\bin\roslyn\csc.exe
+D:\Yoav\EyalProject after fix\bin\roslyn\csc.exe (1).config
+D:\Yoav\EyalProject after fix\bin\roslyn\csc.exe.config
+D:\Yoav\EyalProject after fix\bin\roslyn\csc.rsp
+D:\Yoav\EyalProject after fix\bin\roslyn\csi (1).exe
+D:\Yoav\EyalProject after fix\bin\roslyn\csi (1).rsp
+D:\Yoav\EyalProject after fix\bin\roslyn\csi.exe
+D:\Yoav\EyalProject after fix\bin\roslyn\csi.exe (1).config
+D:\Yoav\EyalProject after fix\bin\roslyn\csi.exe.config
+D:\Yoav\EyalProject after fix\bin\roslyn\csi.rsp
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.CodeAnalysis (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.CodeAnalysis.CSharp (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.CodeAnalysis.Scripting (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.CSharp.Core (1).targets
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64 (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.DiaSymReader.Native.x86 (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.Managed.Core (1).targets
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.VisualBasic.Core (1).targets
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.Win32.Primitives (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.AppContext (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.AppContext.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Collections.Immutable (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Collections.Immutable.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Console (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Console.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Diagnostics.DiagnosticSource (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Diagnostics.FileVersionInfo (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Diagnostics.StackTrace (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Globalization.Calendars (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Globalization.Calendars.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.IO.Compression (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.IO.Compression.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.IO.Compression.ZipFile (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.IO.FileSystem (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.IO.FileSystem.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.IO.FileSystem.Primitives (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Net.Http (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Net.Http.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Net.Sockets (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Net.Sockets.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Reflection.Metadata (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Security.Cryptography.Algorithms (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Security.Cryptography.Encoding (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Security.Cryptography.Primitives (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Security.Cryptography.X509Certificates (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Text.Encoding.CodePages (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Threading.Tasks.Extensions (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.ValueTuple (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.ValueTuple.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Xml.ReaderWriter (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Xml.XmlDocument (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Xml.XPath (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Xml.XPath.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Xml.XPath.XDocument (1).dll
+D:\Yoav\EyalProject after fix\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Yoav\EyalProject after fix\bin\roslyn\vbc (1).exe
+D:\Yoav\EyalProject after fix\bin\roslyn\vbc (1).rsp
+D:\Yoav\EyalProject after fix\bin\roslyn\vbc.exe
+D:\Yoav\EyalProject after fix\bin\roslyn\vbc.exe (1).config
+D:\Yoav\EyalProject after fix\bin\roslyn\vbc.exe.config
+D:\Yoav\EyalProject after fix\bin\roslyn\vbc.rsp
+D:\Yoav\EyalProject after fix\bin\roslyn\VBCSCompiler (1).exe
+D:\Yoav\EyalProject after fix\bin\roslyn\VBCSCompiler.exe
+D:\Yoav\EyalProject after fix\bin\roslyn\VBCSCompiler.exe (1).config
+D:\Yoav\EyalProject after fix\bin\roslyn\VBCSCompiler.exe.config
+D:\Yoav\EyalProject after fix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yoav\EyalProject after fix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yoav\EyalProject after fix\obj\Debug\EyalProject.csproj.AssemblyReference.cache
+D:\Yoav\EyalProject after fix\obj\Debug\EyalProject.csproj.CoreCompileInputs.cache
+D:\Yoav\EyalProject after fix\obj\Debug\EyalProject.csproj.CopyComplete
+D:\Yoav\EyalProject after fix\obj\Debug\EyalProject.dll
+D:\Yoav\EyalProject after fix\obj\Debug\EyalProject.pdb
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\EyalProject.dll.config
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\EyalProject.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\EyalProject.pdb
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\csc (1).exe
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\csc (1).rsp
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\csc.exe
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\csc.exe (1).config
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\csc.exe.config
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\csc.rsp
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\csi (1).exe
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\csi (1).rsp
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\csi.exe
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\csi.exe (1).config
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\csi.exe.config
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\csi.rsp
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.CodeAnalysis (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.CodeAnalysis.CSharp (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.CodeAnalysis.Scripting (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.CSharp.Core (1).targets
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.DiaSymReader.Native.amd64 (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.DiaSymReader.Native.x86 (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.Managed.Core (1).targets
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.VisualBasic.Core (1).targets
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.Win32.Primitives (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.AppContext (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.AppContext.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Collections.Immutable (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Collections.Immutable.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Console (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Console.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Diagnostics.DiagnosticSource (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Diagnostics.FileVersionInfo (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Diagnostics.StackTrace (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Globalization.Calendars (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Globalization.Calendars.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.IO.Compression (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.IO.Compression.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.IO.Compression.ZipFile (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.IO.FileSystem (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.IO.FileSystem.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.IO.FileSystem.Primitives (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Net.Http (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Net.Http.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Net.Sockets (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Net.Sockets.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Reflection.Metadata (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Security.Cryptography.Algorithms (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Security.Cryptography.Encoding (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Security.Cryptography.Primitives (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Security.Cryptography.X509Certificates (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Text.Encoding.CodePages (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Threading.Tasks.Extensions (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.ValueTuple (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.ValueTuple.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Xml.ReaderWriter (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Xml.XmlDocument (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Xml.XPath (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Xml.XPath.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Xml.XPath.XDocument (1).dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\vbc (1).exe
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\vbc (1).rsp
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\vbc.exe
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\vbc.exe (1).config
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\vbc.exe.config
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\vbc.rsp
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\VBCSCompiler (1).exe
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\VBCSCompiler.exe
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\VBCSCompiler.exe (1).config
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\roslyn\VBCSCompiler.exe.config
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\obj\Debug\EyalProject.csproj.AssemblyReference.cache
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\obj\Debug\EyalProject.csproj.CoreCompileInputs.cache
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\obj\Debug\EyalProject.csproj.CopyComplete
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\obj\Debug\EyalProject.dll
+D:\Yoav\EyalProject after fix getfromtable 20 אחיד ויש כמות\obj\Debug\EyalProject.pdb
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\EyalProject.dll.config
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\EyalProject.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\EyalProject.pdb
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\csc (1).exe
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\csc (1).rsp
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\csc.exe
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\csc.exe (1).config
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\csc.exe.config
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\csc.rsp
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\csi (1).exe
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\csi (1).rsp
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\csi.exe
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\csi.exe (1).config
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\csi.exe.config
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\csi.rsp
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.CodeAnalysis (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.CodeAnalysis.CSharp (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.CodeAnalysis.Scripting (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.CSharp.Core (1).targets
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.DiaSymReader.Native.amd64 (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.DiaSymReader.Native.x86 (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.Managed.Core (1).targets
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.VisualBasic.Core (1).targets
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.Win32.Primitives (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.AppContext (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.AppContext.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Collections.Immutable (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Collections.Immutable.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Console (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Console.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Diagnostics.DiagnosticSource (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Diagnostics.FileVersionInfo (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Diagnostics.StackTrace (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Globalization.Calendars (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Globalization.Calendars.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.IO.Compression (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.IO.Compression.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.IO.Compression.ZipFile (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.IO.FileSystem (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.IO.FileSystem.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.IO.FileSystem.Primitives (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Net.Http (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Net.Http.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Net.Sockets (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Net.Sockets.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Reflection.Metadata (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Security.Cryptography.Algorithms (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Security.Cryptography.Encoding (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Security.Cryptography.Primitives (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Security.Cryptography.X509Certificates (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Text.Encoding.CodePages (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Threading.Tasks.Extensions (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.ValueTuple (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.ValueTuple.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Xml.ReaderWriter (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Xml.XmlDocument (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Xml.XPath (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Xml.XPath.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Xml.XPath.XDocument (1).dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\vbc (1).exe
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\vbc (1).rsp
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\vbc.exe
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\vbc.exe (1).config
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\vbc.exe.config
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\vbc.rsp
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\VBCSCompiler (1).exe
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\VBCSCompiler.exe
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\VBCSCompiler.exe (1).config
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\roslyn\VBCSCompiler.exe.config
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\obj\Debug\EyalProject.csproj.AssemblyReference.cache
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\obj\Debug\EyalProject.csproj.CoreCompileInputs.cache
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\obj\Debug\EyalProject.csproj.CopyComplete
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\obj\Debug\EyalProject.dll
+D:\Yoav\EyalProject after fix 20.3 grid תצוגה\obj\Debug\EyalProject.pdb
+D:\Yoav\EyalProject 21.3 morning\bin\EyalProject.dll.config
+D:\Yoav\EyalProject 21.3 morning\bin\EyalProject.dll
+D:\Yoav\EyalProject 21.3 morning\bin\EyalProject.pdb
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\csc (1).exe
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\csc (1).rsp
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\csc.exe
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\csc.exe (1).config
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\csc.exe.config
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\csc.rsp
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\csi (1).exe
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\csi (1).rsp
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\csi.exe
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\csi.exe (1).config
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\csi.exe.config
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\csi.rsp
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.CodeAnalysis (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.CodeAnalysis.CSharp (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.CodeAnalysis.Scripting (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.CSharp.Core (1).targets
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.DiaSymReader.Native.amd64 (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.DiaSymReader.Native.x86 (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.Managed.Core (1).targets
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.VisualBasic.Core (1).targets
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.Win32.Primitives (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.AppContext (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.AppContext.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Collections.Immutable (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Collections.Immutable.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Console (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Console.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Diagnostics.DiagnosticSource (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Diagnostics.FileVersionInfo (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Diagnostics.StackTrace (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Globalization.Calendars (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Globalization.Calendars.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.IO.Compression (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.IO.Compression.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.IO.Compression.ZipFile (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.IO.FileSystem (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.IO.FileSystem.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.IO.FileSystem.Primitives (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Net.Http (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Net.Http.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Net.Sockets (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Net.Sockets.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Reflection.Metadata (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Security.Cryptography.Algorithms (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Security.Cryptography.Encoding (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Security.Cryptography.Primitives (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Security.Cryptography.X509Certificates (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Text.Encoding.CodePages (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Threading.Tasks.Extensions (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.ValueTuple (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.ValueTuple.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Xml.ReaderWriter (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Xml.XmlDocument (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Xml.XPath (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Xml.XPath.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Xml.XPath.XDocument (1).dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\vbc (1).exe
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\vbc (1).rsp
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\vbc.exe
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\vbc.exe (1).config
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\vbc.exe.config
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\vbc.rsp
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\VBCSCompiler (1).exe
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\VBCSCompiler.exe
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\VBCSCompiler.exe (1).config
+D:\Yoav\EyalProject 21.3 morning\bin\roslyn\VBCSCompiler.exe.config
+D:\Yoav\EyalProject 21.3 morning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yoav\EyalProject 21.3 morning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yoav\EyalProject 21.3 morning\obj\Debug\EyalProject.csproj.AssemblyReference.cache
+D:\Yoav\EyalProject 21.3 morning\obj\Debug\EyalProject.csproj.CoreCompileInputs.cache
+D:\Yoav\EyalProject 21.3 morning\obj\Debug\EyalProject.csproj.CopyComplete
+D:\Yoav\EyalProject 21.3 morning\obj\Debug\EyalProject.dll
+D:\Yoav\EyalProject 21.3 morning\obj\Debug\EyalProject.pdb
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\EyalProject.dll.config
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\EyalProject.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\EyalProject.pdb
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\csc (1).exe
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\csc (1).rsp
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\csc.exe
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\csc.exe (1).config
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\csc.exe.config
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\csc.rsp
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\csi (1).exe
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\csi (1).rsp
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\csi.exe
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\csi.exe (1).config
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\csi.exe.config
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\csi.rsp
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.CodeAnalysis (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.CodeAnalysis.CSharp (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.CodeAnalysis.Scripting (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.CSharp.Core (1).targets
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64 (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.DiaSymReader.Native.x86 (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.Managed.Core (1).targets
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.VisualBasic.Core (1).targets
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.Win32.Primitives (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.AppContext (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.AppContext.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Collections.Immutable (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Collections.Immutable.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Console (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Console.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Diagnostics.DiagnosticSource (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Diagnostics.FileVersionInfo (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Diagnostics.StackTrace (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Globalization.Calendars (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Globalization.Calendars.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.IO.Compression (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.IO.Compression.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.IO.Compression.ZipFile (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.IO.FileSystem (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.IO.FileSystem.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.IO.FileSystem.Primitives (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Net.Http (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Net.Http.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Net.Sockets (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Net.Sockets.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Reflection.Metadata (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Security.Cryptography.Algorithms (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Security.Cryptography.Encoding (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Security.Cryptography.Primitives (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Security.Cryptography.X509Certificates (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Text.Encoding.CodePages (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Threading.Tasks.Extensions (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.ValueTuple (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.ValueTuple.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Xml.ReaderWriter (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Xml.XmlDocument (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Xml.XPath (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Xml.XPath.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Xml.XPath.XDocument (1).dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\vbc (1).exe
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\vbc (1).rsp
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\vbc.exe
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\vbc.exe (1).config
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\vbc.exe.config
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\vbc.rsp
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\VBCSCompiler (1).exe
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\VBCSCompiler.exe
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\VBCSCompiler.exe (1).config
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\roslyn\VBCSCompiler.exe.config
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yoav\EyalProject 21.3 trash and comfirm\obj\Debug\EyalProject.csproj.AssemblyReference.cache
+D:\Yoav\EyalProject 21.3 trash and comfirm\obj\Debug\EyalProject.csproj.CoreCompileInputs.cache
+D:\Yoav\EyalProject 21.3 trash and comfirm\obj\Debug\EyalProject.csproj.CopyComplete
+D:\Yoav\EyalProject 21.3 trash and comfirm\obj\Debug\EyalProject.dll
+D:\Yoav\EyalProject 21.3 trash and comfirm\obj\Debug\EyalProject.pdb
+D:\Yoav\EyalProject 22.3 for yoav true\bin\EyalProject.dll.config
+D:\Yoav\EyalProject 22.3 for yoav true\bin\EyalProject.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\EyalProject.pdb
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\csc (1).exe
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\csc (1).rsp
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\csc.exe
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\csc.exe (1).config
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\csc.exe.config
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\csc.rsp
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\csi (1).exe
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\csi (1).rsp
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\csi.exe
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\csi.exe (1).config
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\csi.exe.config
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\csi.rsp
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.CodeAnalysis (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.CodeAnalysis.CSharp (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.CodeAnalysis.Scripting (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.CSharp.Core (1).targets
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.DiaSymReader.Native.amd64 (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.DiaSymReader.Native.x86 (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.Managed.Core (1).targets
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.VisualBasic.Core (1).targets
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.Win32.Primitives (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.AppContext (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.AppContext.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Collections.Immutable (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Collections.Immutable.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Console (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Console.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Diagnostics.DiagnosticSource (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Diagnostics.FileVersionInfo (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Diagnostics.StackTrace (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Globalization.Calendars (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Globalization.Calendars.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.IO.Compression (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.IO.Compression.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.IO.Compression.ZipFile (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.IO.FileSystem (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.IO.FileSystem.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.IO.FileSystem.Primitives (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Net.Http (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Net.Http.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Net.Sockets (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Net.Sockets.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Reflection.Metadata (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Security.Cryptography.Algorithms (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Security.Cryptography.Encoding (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Security.Cryptography.Primitives (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Security.Cryptography.X509Certificates (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Text.Encoding.CodePages (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Threading.Tasks.Extensions (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.ValueTuple (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.ValueTuple.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Xml.ReaderWriter (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Xml.XmlDocument (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Xml.XPath (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Xml.XPath.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Xml.XPath.XDocument (1).dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\vbc (1).exe
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\vbc (1).rsp
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\vbc.exe
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\vbc.exe (1).config
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\vbc.exe.config
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\vbc.rsp
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\VBCSCompiler (1).exe
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\VBCSCompiler.exe
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\VBCSCompiler.exe (1).config
+D:\Yoav\EyalProject 22.3 for yoav true\bin\roslyn\VBCSCompiler.exe.config
+D:\Yoav\EyalProject 22.3 for yoav true\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yoav\EyalProject 22.3 for yoav true\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yoav\EyalProject 22.3 for yoav true\obj\Debug\EyalProject.csproj.AssemblyReference.cache
+D:\Yoav\EyalProject 22.3 for yoav true\obj\Debug\EyalProject.csproj.CoreCompileInputs.cache
+D:\Yoav\EyalProject 22.3 for yoav true\obj\Debug\EyalProject.csproj.CopyComplete
+D:\Yoav\EyalProject 22.3 for yoav true\obj\Debug\EyalProject.dll
+D:\Yoav\EyalProject 22.3 for yoav true\obj\Debug\EyalProject.pdb
+D:\Yoav\EyalProject 22.3 Globle\obj\Debug\EyalProject.csproj.AssemblyReference.cache
+D:\Yoav\EyalProject 22.3 Globle\obj\Debug\EyalProject.csproj.CoreCompileInputs.cache
+D:\Yoav\EyalProject 22.3 Globle\obj\Debug\EyalProject.dll
+D:\Yoav\EyalProject 22.3 Globle\obj\Debug\EyalProject.pdb
+D:\Yoav\EyalProject 22.3 Globle\bin\EyalProject.dll.config
+D:\Yoav\EyalProject 22.3 Globle\bin\EyalProject.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\EyalProject.pdb
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\csc (1).exe
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\csc (1).rsp
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\csc.exe
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\csc.exe (1).config
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\csc.exe.config
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\csc.rsp
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\csi (1).exe
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\csi (1).rsp
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\csi.exe
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\csi.exe (1).config
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\csi.exe.config
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\csi.rsp
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.CodeAnalysis (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.CodeAnalysis.CSharp (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.CodeAnalysis.Scripting (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.CSharp.Core (1).targets
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.DiaSymReader.Native.amd64 (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.DiaSymReader.Native.x86 (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.Managed.Core (1).targets
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.VisualBasic.Core (1).targets
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.Win32.Primitives (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.AppContext (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.AppContext.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Collections.Immutable (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Collections.Immutable.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Console (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Console.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Diagnostics.DiagnosticSource (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Diagnostics.FileVersionInfo (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Diagnostics.StackTrace (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Globalization.Calendars (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Globalization.Calendars.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.IO.Compression (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.IO.Compression.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.IO.Compression.ZipFile (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.IO.FileSystem (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.IO.FileSystem.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.IO.FileSystem.Primitives (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Net.Http (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Net.Http.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Net.Sockets (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Net.Sockets.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Reflection.Metadata (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Security.Cryptography.Algorithms (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Security.Cryptography.Encoding (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Security.Cryptography.Primitives (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Security.Cryptography.X509Certificates (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Text.Encoding.CodePages (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Threading.Tasks.Extensions (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.ValueTuple (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.ValueTuple.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Xml.ReaderWriter (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Xml.XmlDocument (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Xml.XPath (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Xml.XPath.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Xml.XPath.XDocument (1).dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\vbc (1).exe
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\vbc (1).rsp
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\vbc.exe
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\vbc.exe (1).config
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\vbc.exe.config
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\vbc.rsp
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\VBCSCompiler (1).exe
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\VBCSCompiler.exe
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\VBCSCompiler.exe (1).config
+D:\Yoav\EyalProject 22.3 Globle\bin\roslyn\VBCSCompiler.exe.config
+D:\Yoav\EyalProject 22.3 Globle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yoav\EyalProject 22.3 Globle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yoav\EyalProject 22.3 Globle\obj\Debug\EyalProject.csproj.CopyComplete
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\EyalProject.dll.config
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\EyalProject.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\EyalProject.pdb
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\csc (1).exe
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\csc (1).rsp
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\csc.exe
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\csc.exe (1).config
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\csc.exe.config
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\csc.rsp
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\csi (1).exe
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\csi (1).rsp
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\csi.exe
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\csi.exe (1).config
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\csi.exe.config
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\csi.rsp
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.CodeAnalysis (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.CodeAnalysis.CSharp (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.CodeAnalysis.Scripting (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.CSharp.Core (1).targets
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.DiaSymReader.Native.amd64 (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.DiaSymReader.Native.x86 (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.Managed.Core (1).targets
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.VisualBasic.Core (1).targets
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.Win32.Primitives (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.AppContext (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.AppContext.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Collections.Immutable (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Collections.Immutable.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Console (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Console.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Diagnostics.DiagnosticSource (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Diagnostics.FileVersionInfo (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Diagnostics.StackTrace (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Globalization.Calendars (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Globalization.Calendars.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.IO.Compression (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.IO.Compression.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.IO.Compression.ZipFile (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.IO.FileSystem (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.IO.FileSystem.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.IO.FileSystem.Primitives (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Net.Http (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Net.Http.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Net.Sockets (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Net.Sockets.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Reflection.Metadata (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Security.Cryptography.Algorithms (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Security.Cryptography.Encoding (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Security.Cryptography.Primitives (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Security.Cryptography.X509Certificates (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Text.Encoding.CodePages (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Threading.Tasks.Extensions (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.ValueTuple (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.ValueTuple.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Xml.ReaderWriter (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Xml.XmlDocument (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Xml.XPath (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Xml.XPath.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Xml.XPath.XDocument (1).dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\vbc (1).exe
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\vbc (1).rsp
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\vbc.exe
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\vbc.exe (1).config
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\vbc.exe.config
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\vbc.rsp
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\VBCSCompiler (1).exe
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\VBCSCompiler.exe
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\VBCSCompiler.exe (1).config
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\roslyn\VBCSCompiler.exe.config
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yoav\EyalProject 23.3 my cart repeater\obj\Debug\EyalProject.csproj.AssemblyReference.cache
+D:\Yoav\EyalProject 23.3 my cart repeater\obj\Debug\EyalProject.csproj.CoreCompileInputs.cache
+D:\Yoav\EyalProject 23.3 my cart repeater\obj\Debug\EyalProject.csproj.CopyComplete
+D:\Yoav\EyalProject 23.3 my cart repeater\obj\Debug\EyalProject.dll
+D:\Yoav\EyalProject 23.3 my cart repeater\obj\Debug\EyalProject.pdb
+D:\Yoav\EyalProject Final\bin\EyalProject.dll.config
+D:\Yoav\EyalProject Final\bin\EyalProject.dll
+D:\Yoav\EyalProject Final\bin\EyalProject.pdb
+D:\Yoav\EyalProject Final\bin\roslyn\csc (1).exe
+D:\Yoav\EyalProject Final\bin\roslyn\csc (1).rsp
+D:\Yoav\EyalProject Final\bin\roslyn\csc.exe
+D:\Yoav\EyalProject Final\bin\roslyn\csc.exe (1).config
+D:\Yoav\EyalProject Final\bin\roslyn\csc.exe.config
+D:\Yoav\EyalProject Final\bin\roslyn\csc.rsp
+D:\Yoav\EyalProject Final\bin\roslyn\csi (1).exe
+D:\Yoav\EyalProject Final\bin\roslyn\csi (1).rsp
+D:\Yoav\EyalProject Final\bin\roslyn\csi.exe
+D:\Yoav\EyalProject Final\bin\roslyn\csi.exe (1).config
+D:\Yoav\EyalProject Final\bin\roslyn\csi.exe.config
+D:\Yoav\EyalProject Final\bin\roslyn\csi.rsp
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.Scripting (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.CSharp.Core (1).targets
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64 (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.DiaSymReader.Native.x86 (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.Managed.Core (1).targets
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.VisualBasic.Core (1).targets
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.Win32.Primitives (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.AppContext (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.AppContext.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Collections.Immutable (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Collections.Immutable.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Console (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Console.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Diagnostics.DiagnosticSource (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Diagnostics.FileVersionInfo (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Diagnostics.StackTrace (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Globalization.Calendars (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Globalization.Calendars.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.IO.Compression (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.IO.Compression.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.IO.Compression.ZipFile (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.IO.FileSystem (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.IO.FileSystem.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.IO.FileSystem.Primitives (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Net.Http (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Net.Http.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Net.Sockets (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Net.Sockets.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Reflection.Metadata (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Security.Cryptography.Algorithms (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Security.Cryptography.Encoding (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Security.Cryptography.Primitives (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Security.Cryptography.X509Certificates (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Text.Encoding.CodePages (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Threading.Tasks.Extensions (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.ValueTuple (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.ValueTuple.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Xml.ReaderWriter (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Xml.XmlDocument (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Xml.XPath (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Xml.XPath.dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Xml.XPath.XDocument (1).dll
+D:\Yoav\EyalProject Final\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Yoav\EyalProject Final\bin\roslyn\vbc (1).exe
+D:\Yoav\EyalProject Final\bin\roslyn\vbc (1).rsp
+D:\Yoav\EyalProject Final\bin\roslyn\vbc.exe
+D:\Yoav\EyalProject Final\bin\roslyn\vbc.exe (1).config
+D:\Yoav\EyalProject Final\bin\roslyn\vbc.exe.config
+D:\Yoav\EyalProject Final\bin\roslyn\vbc.rsp
+D:\Yoav\EyalProject Final\bin\roslyn\VBCSCompiler (1).exe
+D:\Yoav\EyalProject Final\bin\roslyn\VBCSCompiler.exe
+D:\Yoav\EyalProject Final\bin\roslyn\VBCSCompiler.exe (1).config
+D:\Yoav\EyalProject Final\bin\roslyn\VBCSCompiler.exe.config
+D:\Yoav\EyalProject Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yoav\EyalProject Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yoav\EyalProject Final\obj\Debug\EyalProject.csproj.AssemblyReference.cache
+D:\Yoav\EyalProject Final\obj\Debug\EyalProject.csproj.CoreCompileInputs.cache
+D:\Yoav\EyalProject Final\obj\Debug\EyalProject.csproj.CopyComplete
+D:\Yoav\EyalProject Final\obj\Debug\EyalProject.dll
+D:\Yoav\EyalProject Final\obj\Debug\EyalProject.pdb
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\EyalProject.dll.config
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\EyalProject.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\EyalProject.pdb
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\csc (1).exe
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\csc (1).rsp
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\csc.exe
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\csc.exe (1).config
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\csc.exe.config
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\csc.rsp
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\csi (1).exe
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\csi (1).rsp
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\csi.exe
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\csi.exe (1).config
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\csi.exe.config
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\csi.rsp
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.Scripting (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CSharp.Core (1).targets
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64 (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.DiaSymReader.Native.x86 (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.Managed.Core (1).targets
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.VisualBasic.Core (1).targets
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.Win32.Primitives (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.AppContext (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.AppContext.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Collections.Immutable (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Console (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Console.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Diagnostics.DiagnosticSource (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Diagnostics.FileVersionInfo (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Diagnostics.StackTrace (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Globalization.Calendars (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.IO.Compression (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.IO.Compression.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.IO.Compression.ZipFile (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.IO.FileSystem (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.IO.FileSystem.Primitives (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Net.Http (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Net.Http.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Net.Sockets (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Net.Sockets.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Reflection.Metadata (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Security.Cryptography.Algorithms (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Security.Cryptography.Encoding (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Security.Cryptography.Primitives (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Security.Cryptography.X509Certificates (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Text.Encoding.CodePages (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Threading.Tasks.Extensions (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.ValueTuple (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.ValueTuple.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Xml.ReaderWriter (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Xml.XmlDocument (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Xml.XPath (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Xml.XPath.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Xml.XPath.XDocument (1).dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\vbc (1).exe
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\vbc (1).rsp
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\vbc.exe
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\vbc.exe (1).config
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\vbc.exe.config
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\vbc.rsp
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\VBCSCompiler (1).exe
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\VBCSCompiler.exe
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\VBCSCompiler.exe (1).config
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\obj\Debug\EyalProject.csproj.AssemblyReference.cache
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\obj\Debug\EyalProject.csproj.CoreCompileInputs.cache
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\obj\Debug\EyalProject.csproj.CopyComplete
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\obj\Debug\EyalProject.dll
+C:\Users\eyaln\OneDrive\שולחן העבודה\Final Yoav Project all\EyalProject Final\obj\Debug\EyalProject.pdb
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\EyalProject.dll.config
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\EyalProject.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\EyalProject.pdb
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\csc (1).exe
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\csc (1).rsp
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\csc.exe
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\csc.exe (1).config
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\csc.exe.config
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\csc.rsp
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\csi (1).exe
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\csi (1).rsp
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\csi.exe
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\csi.exe (1).config
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\csi.exe.config
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\csi.rsp
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.Scripting (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CSharp.Core (1).targets
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64 (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.DiaSymReader.Native.x86 (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.Managed.Core (1).targets
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.VisualBasic.Core (1).targets
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.Win32.Primitives (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.AppContext (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.AppContext.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Collections.Immutable (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Console (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Console.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Diagnostics.DiagnosticSource (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Diagnostics.FileVersionInfo (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Diagnostics.StackTrace (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Globalization.Calendars (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.IO.Compression (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.IO.Compression.ZipFile (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.IO.FileSystem (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.IO.FileSystem.Primitives (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Net.Http (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Net.Http.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Net.Sockets (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Reflection.Metadata (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Security.Cryptography.Algorithms (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Security.Cryptography.Encoding (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Security.Cryptography.Primitives (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Security.Cryptography.X509Certificates (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Text.Encoding.CodePages (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Threading.Tasks.Extensions (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.ValueTuple (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Xml.ReaderWriter (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Xml.XmlDocument (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Xml.XPath (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Xml.XPath.XDocument (1).dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\vbc (1).exe
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\vbc (1).rsp
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\vbc.exe
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\vbc.exe (1).config
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\vbc.exe.config
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\vbc.rsp
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\VBCSCompiler (1).exe
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\VBCSCompiler.exe (1).config
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\obj\Debug\EyalProject.csproj.AssemblyReference.cache
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\obj\Debug\EyalProject.csproj.CoreCompileInputs.cache
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\obj\Debug\EyalProject.csproj.CopyComplete
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\obj\Debug\EyalProject.dll
+C:\Users\Eyal Naftaly\Desktop\Final Yoav Project all\EyalProject Final\obj\Debug\EyalProject.pdb

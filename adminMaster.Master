@@ -1,0 +1,218 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="adminMaster.master.cs" Inherits="EyalProject.adminMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <link href="StyleSheet.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<script type="text/javascript">
+
+    function poop() {
+        return confirm("להוציא את המוצר מהעגלה?");
+    }
+    function DelAllCart() {
+        return confirm("האם ברצונך לרוקן את כל העגלה?")
+    }
+    function ShowCart(id) {
+        var mySession = '<%= Session["userStat"].ToString() %>';
+        if (mySession != "guest") {
+            var elmDisplay = document.getElementById(id).style.display;
+            if (elmDisplay == "none") {
+                document.getElementById(id).style.display = "block";
+            }
+            else {
+                document.getElementById(id).style.display = "none";
+            }
+        }
+        return false;
+    }
+
+    function closeOpen(id) {
+             var elmDisplay = document.getElementById(id).style.display;
+             if (elmDisplay == "none") {
+                 document.getElementById(id).style.display = "block";
+             }
+             else {
+                 document.getElementById(id).style.display = "none";
+             }
+         return false;
+     }
+    function GeustPrompt() {
+        var mySession = '<%= Session["userStat"].ToString() %>';
+        if (mySession == "guest") {
+            document.getElementById("prmt").style.display = "block";
+            document.getElementById("prmtTxtSpot").innerText = "רק משתמשים רשומים יכולים להוסיף לעגלת הקניות";
+            return false;
+        }
+        return true;
+        document.getElementById("prmtTxtSpot").scroll
+    }
+
+</script>
+<body dir="rtl">
+
+    <form id="form1" runat="server">
+        <!-- 
+                <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+           <asp:UpdatePanel ID="UpdatePanel" runat="server">
+                <ContentTemplate> 
+    -->
+
+        <div class="title" style="top: 0; border: 1px; width: 100%;">
+            <div style="position: relative; float: right; padding: 0; margin: 0;">
+
+
+                <asp:Button CssClass="send" ID="exit" runat="server" Style="width: 250px;" OnClick="logout" Visible="true" CausesValidation="false" />
+                <asp:Button CssClass="send" Text="החשבון שלי" ID="toAccount" runat="server" Style="width: 250px;" OnClick="toAccount_Click" Visible="true" CausesValidation="false" />
+                <asp:Button CssClass="send" Text="מעבר לתשלום" ID="toPay" runat="server" Style="width: 250px;" OnClick="toPay_Click" Visible="true" CausesValidation="false" /><br />
+                <asp:Button CssClass="send" Text="מוצר אקראי" ID="randomBtn" runat="server" Style="width: 250px;" OnClick="RandomProduct" Visible="true" CausesValidation="false" />
+
+                <asp:ImageButton BackColor="White" Width="30" ID="cartIcon" ImageUrl="pics/cart.png" OnClientClick="return ShowCart('cartPanel')" runat="server" Style="height: 30px" />
+
+
+                <asp:Panel CssClass="cart" ID="cartPanel" runat="server">
+
+
+                    <table border="0" style="top: 0;  width: 100%; border-spacing: 0;">
+
+                        <tr style="background-color: #8b00cc; border-spacing: 0;">
+                            <th>
+                                <asp:Button Visible="true" ID="emptyCart" OnClientClick="return DelAllCart()" OnClick="clearCart" runat="server" Text=" רוקן עגלה " />
+                                <asp:ImageButton Width="20" Height="20" CssClass="exitInsImg"
+                                    OnClientClick="return ShowCart('cartPanel')" ImageUrl="pics/error.png" runat="server" />
+                                <br />
+                                <asp:Label ID="cartHead" Font-Bold="true" CssClass="head" Font-Size="X-Large" runat="server" Text="CART"></asp:Label>
+
+                            </th>
+                        </tr>
+                    </table>
+                    <div style=" height:300px; width:100%; background-color:aqua;">
+                    <div style="height:100%;  width:100%; overflow-x:hidden; background-color:seagreen;">
+                    <table border="0"  style="top: 0; width:100%; border-spacing: 0;">
+
+                        <asp:Repeater OnPreRender="myCart_LoadFill" OnItemCommand="myCart_ItemCommand" ID="myCart" runat="server">
+
+
+                            <ItemTemplate>
+                                <tr style="border-spacing: 0; height: 10px; font-size: 25px; background-color: #cc66ff;">
+                                    <td class="tdCart" rowspan="2" style="width: 10%; padding: 0;">
+                                        <asp:ImageButton CssClass="opacityCss" CommandName="showPro" Width="50" Height="90" ImageUrl='<%# Eval("ImageColumn") %>' ID="ImageButton1" runat="server" />
+
+                                    </td>
+                                    <td class="tdCart" style="text-align: center;" colspan="3">
+                                        <asp:LinkButton CssClass="cssLink" Font-Size="15px" ID="LinkButton1" CommandName="showPro" Text='<%# Eval("ProName") %>' runat="server"></asp:LinkButton>
+
+                                    </td>
+                                </tr>
+                                <tr style="font-size: 20px; border-bottom: 10px solid black; padding:0; background-color: cadetblue;">
+                                    <td class="tdCart" style="width: 5%;">
+                                        <asp:ImageButton Width="20" CommandName="deleteItem" Height="20" CssClass="exitInsImg" ID="imgExitPrmt" ImageUrl="pics/trash.png" runat="server" />
+                                    </td>
+                                    <td class="tdCart" style="width: 8%; padding:0;">
+                                        <asp:Label ID="Label3" Font-Size="15px" runat="server" Text='<%# Eval("finalP") %>'></asp:Label>
+                                    </td>
+                                    <td class="tdCart" style="width: 7%; padding:0;">
+                                        <asp:Button ID="plus" runat="server" Enabled='<%#Eval("IsMax")%>' CommandName="plus" Text="+" /><br />
+                                        <asp:Label ID="Label1" runat="server" Text='<%# Eval("Count") %>'></asp:Label><br />
+                                        <asp:Button ID="minus" runat="server" Enabled='<%#Eval("IsMin")%>' CommandName="minus" Text="-" />
+
+                                    </td>
+
+
+                                </tr>
+                            </ItemTemplate>
+
+
+                        </asp:Repeater>
+                    </table>
+                       </div>
+
+                    </div>
+                        
+
+                    <table border="0"   style="top: 0;  width: 100%; border-spacing: 0;">
+
+                        <tr style="background-color: #8b00cc; font-size: 20px; border-spacing: 0;">
+                            <td style="padding:5px; width:30%; font-size:15px;">
+                                <asp:Label ID="sumItems" Text="TEXT" runat="server"></asp:Label>
+                            </td>
+                            <td style="padding: 5px; padding-left:0; font-size:15px;" >
+                                <asp:Label ID="sum" Text="TEXT" runat="server"></asp:Label>
+                            </td>
+
+                        </tr>
+                        <tr style="background-color: #8b00cc; border-spacing: 0;">
+                            <th style="font-size:10px;"  colspan="2">
+                                <asp:Button Text="מעבר לתשלום" ID="CarttoPay" runat="server" Style="width: 150px;" CssClass="cartBtn" OnClick="toPay_Click" Visible="true" CausesValidation="false" />
+                            </th>
+                        </tr>
+                    </table>
+                </asp:Panel>
+
+            </div>
+            Wide Guitar 
+            <asp:ImageButton   OnClick="toHomepage_Click" Width="100" ImageUrl="pics/wideGuitarLogo.png"  ID="Image1" runat="server" />
+             <table border="1" align="center">
+                 <tr>
+                     <th style="padding: 0;">
+                         <asp:Button CssClass="send" ID="toHomepage" runat="server" Style="width: 130px;" OnClick="toMenu_Click" Text="דף הבית" CausesValidation="false" />
+
+                         <asp:ContentPlaceHolder ID="title" runat="server">
+                             <!-- custome title to each page. different nav bar -->
+                         </asp:ContentPlaceHolder>
+                     </th>
+                 </tr>
+             </table>
+
+        </div>
+
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <!-- prompt for error mgs-->
+        <asp:Label ID="errorPrmt" runat="server" Visible="false">
+            <div class="overlay" runat="server"></div>
+            <div class="error">
+                <asp:ImageButton CssClass="exitImg" ID="ImageExitError" ImageUrl="pics/error.png" runat="server" OnClick="ImageExitError_Click" />
+                <asp:Image runat="server" ImageUrl="pics/monkey.jpg" Style="float: left; width: 25%; height: 45%;" />
+                <h1>שגיאה באתר</h1>
+                משהו השתבש... נסה במועד מאוחר יותר 
+            
+            </div>
+        </asp:Label>
+
+        <!-- prompt for note the guest/customer-->
+        <div id="prmt" style="display: none;">
+            <div class="overlay" style="opacity: 0.5;" runat="server"></div>
+            <div class="error" style="border: 6px solid #002db3; background-color: #e6ffff; border-radius: 10px;">
+                <asp:ImageButton CssClass="exitImg" ID="imgExitPrmt"
+                    ImageUrl="pics/error.png" runat="server" OnClientClick="return closeOpen('prmt')" /><asp:Image runat="server" ImageUrl="pics/wideGuitarLogo.png" Style="float: left; width: 25%; height: 45%;" />
+
+                <h1>לתשומת ליבך,</h1>
+                <!-- custom text-->
+                <asp:Label ID="prmtTxtSpot" runat="server"></asp:Label>
+                <br />
+                <br />
+                <!--if you have user then log if dont, create -->
+                יש לך משתמש?  <asp:LinkButton OnClick="toLoginSession_Click" ID="LinkButton2" runat="server">התחבר</asp:LinkButton> או שתוכל ליצור <asp:LinkButton OnClick="toSignUp_Click" ID="LinkButton3" runat="server">משתמש חדש</asp:LinkButton>
+
+
+            </div>
+        </div>
+
+        <!--
+</ContentTemplate>
+            </asp:UpdatePanel>   
+        -->
+
+    </form>
+
+</body>
+</html>
+
+
