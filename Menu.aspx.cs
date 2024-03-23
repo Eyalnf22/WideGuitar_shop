@@ -71,18 +71,42 @@ namespace EyalProject
                     OleDbCommand Cmd4 = new OleDbCommand(sqlstring4, Con4);
                     OleDbDataReader Dr4 = Cmd4.ExecuteReader();
                     Dr4.Read();
-                    //מוציא את כלי הנגינה האחרון שקנית
-                    int lastInst = (int)Dr4["InstID"];
-                    Con4.Close();
-                    //מוציא את הסוג והתת סוג שלו
-                    string Type = getInfoFromATbl(lastInst, "Type");
-                    string InnerType = getInfoFromATbl(lastInst, "InnerType");
+                     //מוציא את כלי הנגינה האחרון שקנית
+                    int lastInst;
+                    Boolean everBoghtItem = false;
+                    if (Dr4.HasRows)
+                        everBoghtItem = true;
 
-                    //שולף מהטבלה את כל הכלים שמאותו סוג ותת סוג
-                    OleDbConnection Con5 = new OleDbConnection();
-                    Con5.ConnectionString = @"provider=Microsoft.ACE.OLEDB.12.0; Data source="
-                        + Server.MapPath("") + "\\eyalDataBase.accdb";
-                    Con5.Open();
+                    string InnerType = "";
+                    string Type = "";
+                    if (everBoghtItem)
+                    {
+                        lastInst = (int)Dr4["InstID"];
+                        //מוציא את הסוג והתת סוג שלו
+                         Type = getInfoFromATbl(lastInst, "Type");
+                        InnerType = getInfoFromATbl(lastInst, "InnerType");
+                    }
+
+                    Con4.Close();
+
+                    if (everBoghtItem)
+                    {
+                        //שולף מהטבלה את כל הכלים שמאותו סוג ותת סוג
+                        OleDbConnection Con5 = new OleDbConnection();
+                        Con5.ConnectionString = @"provider=Microsoft.ACE.OLEDB.12.0; Data source="
+                            + Server.MapPath("") + "\\eyalDataBase.accdb";
+                        Con5.Open();
+
+                        string sqlstring5 = "Select TOP 4 * from MyInstruments" +
+                            " WHERE Type ='" + Type + "' AND  InnerType = '" + InnerType + "' ";
+                        OleDbCommand Cmd5 = new OleDbCommand(sqlstring5, Con5);
+                        OleDbDataReader Dr5 = Cmd5.ExecuteReader();
+                        forU.DataSource = Dr5;
+                        forU.DataBind();
+
+                        Con5.Close();
+                    }
+
 
                     string sqlstring5 = "Select TOP 4 * from MyInstruments" +
                         " WHERE Type ='" + Type + "' AND  InnerType = '" + InnerType + "' ";
